@@ -1,4 +1,4 @@
-📘 Code Explanation
+
 1. Library Imports
 C
 #include <stdio.h>
